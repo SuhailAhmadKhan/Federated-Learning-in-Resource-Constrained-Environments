@@ -1,9 +1,10 @@
-Team :
-Atharv Badgujar
-Harsh Tirhekar 
-Suhail Khan 
-Mohniish Gurnani
-Harendra Singh
+## Team
+
+- **Atharv Badgujar**
+- **Harsh Tirhekar**
+- **Suhail Khan**
+- **Mohniish Gurnani**
+- **Harendra Singh**
 
 # TensorFlow Federated Learning and Edge Impulse model deployment
 
