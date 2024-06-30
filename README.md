@@ -1,3 +1,5 @@
+# Leveraging Federated Learning for Edge Intelligence in Resource-Constrained Environments
+
 ## Team
 
 - **Atharv Badgujar**
@@ -5,6 +7,10 @@
 - **Suhail Khan**
 - **Mohniish Gurnani**
 - **Harendra Singh**
+
+## Under Guidance of
+
+Dr. Bibhas Ghoshal
 
 # TensorFlow Federated Learning and Edge Impulse model deployment
 
