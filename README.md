@@ -12,11 +12,11 @@
 
 Dr. Bibhas Ghoshal
 
-# TensorFlow Federated Learning and Edge Impulse model deployment
+# TensorFlow Federated Learning
 
 ![Cover image](media/cover_image.png)
 
-This repository demonstrates how to use [Flower Federated Learning](https://flower.dev/docs/framework/tutorial-what-is-federated-learning.html) to train a TensorFlow model and deploy it to a wide range of devices by using [Edge Impulse Python SDK](https://docs.edgeimpulse.com/docs/tools/edge-impulse-python-sdk).
+This repository demonstrates how to use [Flower Federated Learning](https://flower.dev/docs/framework/tutorial-what-is-federated-learning.html) to train a TensorFlow model and deploy it to RaspBerry Pi devices.
 
 The main characteristics of this architecture include:
 - At least 2 connected devices(clients) that will individually train a local model.
